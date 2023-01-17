@@ -1,0 +1,52 @@
+*{
+    margin:0px;
+    padding: 0px;
+}
+.nav{
+    padding: 10px 10px 10px 10px;
+    position: sticky;
+    height: auto;
+   background-color: #2e3192;
+    width: 90%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav>div{
+    align-items: center;
+    width: 35%;
+}
+.nav>div>a{
+    color: white;
+   padding: 20px;
+}
+.nav>img{
+    width:5%;
+    margin-left: 10px;
+}
+.searchbar{
+    margin: auto;
+    margin-top: 10px;
+    text-align: center;
+    width: 90%;
+    height: 200px;
+    border: 2px solid beige;
+}
+.menu{
+    display: flex;
+    width:80%;
+    text-align: center;
+    margin:auto;
+    gap:20px 
+}
+.menu>button{
+    width:150px;
+}
+
+section{
+    margin-top: 20px;
+}
+.flex{
+    display: flex;
+}
