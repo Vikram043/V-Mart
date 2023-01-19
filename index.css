@@ -86,13 +86,19 @@
     padding: 10px;
 }
 .menu{
+    border:1px solid rgb(223, 220, 220);
+    padding:30px 60px 0px 60px;
     display: flex;
-    width:80%;
+    width:90%;
     text-align: center;
     margin:auto;
-    gap:20px 
+    gap:80px 
+}
+.menu img{
+    padding-bottom: 10px;
 }
 .menu>button{
+    margin-bottom: 10px;
     width:150px;
 }
 .flex{
@@ -129,4 +135,35 @@
 }
 .logo>div{
     padding-right: 20px;
+}
+.box>button{
+    display:block;
+    margin: auto;
+    width:90px;
+    height:30px;
+}
+.mid{
+    border:1px solid rgb(241, 237, 237);
+    margin:auto;
+    width:90%;
+  padding: 20px 40px 20px 40px;
+}
+.mid>img{
+    width:100%;
+}
+.mid_cont{
+    font-size:25px;
+    padding-top: 40px;
+}
+.mid_img img{
+    padding-left: 20px;
+    padding-top: 20px;
+    width:20px;
+}
+.mid h1{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.mid_img p{
+    padding-right: 40px;
 }
