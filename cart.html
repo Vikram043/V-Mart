@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Cart Page</title>
+    <style>
+      /* Write all necessery css here  */
+      .nav {
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+      }
+      #container{
+        display: grid;
+        grid-template-columns:20% 20% 20% 20% ;
+        grid-gap: 20px;
+        justify-content: center;
+      }
+      #container>div{
+        padding: 10px;
+      }
+      #container>div>img{
+        height: 200px;
+        width: 100%;
+
+      }
+      #container>div>button{
+        
+         background-color: rgb(81, 201, 245);
+         color: white;
+         padding: 5px;
+         border: none;
+         border-radius: 3px;
+         margin: 10px;
+
+      }
+    </style>
+  </head>
+  <body>
+    <div class="nav">
+      <h1>Masai E-Commerce</h1>
+      <a href="./index.html">Home</a>
+      <a href="./cart.html">Cart</a>
+    </div>
+    <h1 id="total">
+      Your Total cart Price is:- <span id="cart-total">0</span>
+    </h1>
+    <div id="container">
+      <!-- Here Append All the cart Products  -->
+    </div>
+  </body>
+  </html>
+  <script type="text/javascript" src="./cart.js"></script>
