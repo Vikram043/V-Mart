@@ -1,0 +1,109 @@
+#container{
+    display:grid;
+    grid-template-columns: repeat(4,1fr);
+    gap:20px;
+    width:90%;
+    margin: auto;
+    
+}
+#container>div{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    padding:10px 10px 10px 10px;
+}
+.btn{
+    display: block;
+    margin: auto;
+    border: 2px solid black;
+    width:90px;
+    height:30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+*{
+    margin:0px;
+    padding: 0px;
+    font-family: Arial;
+    text-decoration: none;
+}
+.nav{
+    padding: 10px 10px 0px 10px;
+    position: relative;
+    height: auto;
+   background-color: #2e3192;
+    width:100%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    transition: transform .2s ease-in-out;
+    z-index: 8;
+    position: fixed;
+}
+.nav>div{
+    align-items: center;
+    width: 35%;
+    text-decoration: none;
+}
+.nav>div>a{
+    text-decoration: none;
+    color: white;
+   padding: 20px;
+}
+.nav>img{
+    width:4%;
+    padding-left: 20px;
+    align-self: center;
+}
+.searchbar{
+        text-align: center;
+        background-color: #ccc;
+        background-image: url(https://hm.imimg.com/imhome_gifs/bg-img.jpg);
+        height: 330px;
+        background-size: cover;
+        background-position: 100% 32%;
+        overflow: hidden;
+        font-family: arial;
+        color: white;
+}
+.searchbar>div{
+    padding-top: 80px;
+        width: 100%;
+        position: relative;
+}
+.searchbar>div>div{
+    padding: 0px;
+    display: flex;
+    margin: auto;
+    width:60%;
+}
+.searchbar>div>div>input{
+    font-family: Arial;
+    font-size: 20px;
+    width:60%;
+    height:48px;
+    border:1px solid white;
+    padding-left: 10px;
+}
+.searchbar button{
+    font-family: Arial;
+    font-size: 20px;
+    width:179px;
+    height:50px;
+    border:1px solid rgb(206, 202, 202);
+   
+}
+.blue{
+    display: flex;
+    background-color:#04847a;
+    align-items: center;
+    justify-content:center;
+    color: white;
+}
+.blue>img{
+    margin-right: 10px;
+    width:20px;
+}
+.searchbar h3{
+    font-size: 40px;
+    padding: 10px;
+}
