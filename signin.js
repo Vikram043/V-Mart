@@ -29,6 +29,7 @@ form.addEventListener("submit",(e)=>{
             alert("Please enter your password")
         }
     }else{
+        alert("Sign-Up successful")
         let obj={
             name:n.value,
             email:email.value,
@@ -53,8 +54,7 @@ forms.addEventListener("submit",(e)=>{
     }
     if(flag==true){
         alert("Sign-In successful")
-            let url = "http://127.0.0.1:5500/index.html";
-            window.location.href = url;
+            location.href = "./cart.html"
     }else{
         alert("Username or password is wrong")
     }

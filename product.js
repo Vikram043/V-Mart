@@ -1,15 +1,37 @@
 let cart=JSON.parse(localStorage.getItem("cart"))||[]
 let API="./data/product.json"
 
+let search=document.getElementById("search")
+
+let sbtn=document.getElementById("sbtn")
+
+
+
 fetch(API)
 .then((request)=>request.json())
 .then((data)=>{
     console.log(data)
     display(data)
+    sbtn.addEventListener("click",function(){
+        if(search.value==""){
+            display(data)
+          }else{
+            let filterdata=data.filter((el)=>{
+                console.log(el.title.toUpperCase())
+                if(el.title.toUpperCase().includes(search.value.toUpperCase())==true){
+                  return true
+                }else{
+                  return false
+                }
+              })
+              display(filterdata)
+            }
+    })
 })
 let container=document.getElementById("container")
 
 function display(data){
+    container.innerHTML=''
     data.forEach((el,ind) => {
         let box=document.createElement("div")
         box.className="box";
@@ -26,6 +48,7 @@ function display(data){
         price.innerText=`₹${el.price}`
 
         let btn=document.createElement("button")
+        btn.className="btn"
         btn.innerText="Add to Cart"
 
         btn.addEventListener("click",()=>{
