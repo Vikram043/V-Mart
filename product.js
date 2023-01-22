@@ -7,7 +7,7 @@ let sbtn=document.getElementById("sbtn")
 
 
 
-fetch(API)
+fetch("./data/product.json")
 .then((request)=>request.json())
 .then((data)=>{
     console.log(data)
@@ -18,7 +18,7 @@ fetch(API)
           }else{
             let filterdata=data.filter((el)=>{
                 console.log(el.title.toUpperCase())
-                if(el.title.toUpperCase().includes(search.value.toUpperCase())==true){
+                if(el.title.toUpperCase().includes(search.value.toUpperCase())==true || el.category.toUpperCase().includes(search.value.toUpperCase())==true || el.description.toUpperCase().includes(search.value.toUpperCase())==true ){
                   return true
                 }else{
                   return false

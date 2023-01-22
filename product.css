@@ -3,17 +3,27 @@
     grid-template-columns: repeat(4,1fr);
     gap:20px;
     width:90%;
+    height: auto;
     margin: auto;
     
 }
 #container>div{
+    border-radius: 10px;
+    height:auto;
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
-    padding:10px 10px 10px 10px;
+    padding:10px 20px 10px 20px;
+    display: grid;
+    justify-content:center;
+    align-items: end;
+    height: auto;   
 }
+
 .btn{
+    background-color: beige;
+    border-radius: 5px;
     display: block;
     margin: auto;
-    border: 2px solid black;
+    border: 1px solid black;
     width:90px;
     height:30px;
     margin-top: 10px;
@@ -50,9 +60,10 @@
    padding: 20px;
 }
 .nav>img{
-    width:4%;
+    width:8%;
     padding-left: 20px;
     align-self: center;
+    padding-bottom: 10px;
 }
 .searchbar{
         text-align: center;

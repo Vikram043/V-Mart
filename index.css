@@ -29,9 +29,10 @@
    padding: 20px;
 }
 .nav>img{
-    width:4%;
+    width:8%;
     padding-left: 20px;
     align-self: center;
+    padding-bottom: 10px;
 }
 .searchbar{
         text-align: center;
@@ -156,24 +157,40 @@
     width:100%;
 }
 .ft{
+    background-color: #eeeeee;
     display: flex;
     margin: auto;
-    margin-top: 10px;
-    width:70%;
+    padding:10px 10% 0px 10%;
+    width:80%;
     justify-content: space-between;
+    color: #353893;
+}
+.ft h3{
+    margin-left:100px;
+    padding-top: 7px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 .ft img{
     background-color: #eeeeee;
     width:30px;
-    padding-right: 10px;
+    padding-right: 5px;
+    padding-left: 5px;
 }
 .logo{
-    width:60%;
+    margin-right:100px;
+    width:40%;
     display: flex;
-    justify-content: end;
+   
 }
 .logo>div{
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     padding-right: 20px;
+    padding-bottom: 5px;
 }
 .box>button{
     display:block;
@@ -191,13 +208,15 @@
     width:100%;
 }
 .mid_cont{
+   
     font-size:25px;
     padding-top: 40px;
 }
 .mid_img img{
-    padding-left: 20px;
+    display: flex;
     padding-top: 20px;
-    width:20px;
+    padding-bottom: 10px;
+    width:50px;
 }
 .mid h1{
     margin-top: 10px;
@@ -285,5 +304,28 @@ hr{
      display:none;
     }
 #dropdown p{
-        margin-top: 10px;
+        padding-top: 10px;
     }
+#fz{
+    width:65%;
+    margin: auto;
+    display:flex;
+    justify-content: space-between;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color:#858585;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    padding: 5px;
+}
+.fe{
+    background-color: #eeeeee;
+    display: flex;
+    margin: auto;
+    width:80%;
+    justify-content: space-between;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    padding:10px 100px 5px 100px;
+    margin-bottom: 10px;
+}

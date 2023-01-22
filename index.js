@@ -21,7 +21,7 @@ let touch5=document.querySelector("#touch5")
 let drop=document.getElementById("dropdown")
 let none=document.getElementById("none")
 let sum=0
-touch.addEventListener("click",function(){
+touch.addEventListener("mouseover",function(){
   if(sum%2==0){
     drop.style.display="flex";
     none.style.display="none";
@@ -32,7 +32,7 @@ touch.addEventListener("click",function(){
   }
  sum++
 })
-touch1.addEventListener("click",function(){
+touch1.addEventListener("mouseover",function(){
   if(sum%2==0){
     drop.style.display="flex";
     none.style.display="none";
@@ -43,7 +43,7 @@ touch1.addEventListener("click",function(){
   }
  sum++
 })
-touch2.addEventListener("click",function(){
+touch2.addEventListener("mouseover",function(){
   if(sum%2==0){
     drop.style.display="flex";
     none.style.display="none";
@@ -54,7 +54,7 @@ touch2.addEventListener("click",function(){
   }
  sum++
 })
-touch3.addEventListener("click",function(){
+touch3.addEventListener("mouseover",function(){
   if(sum%2==0){
     drop.style.display="flex";
     none.style.display="none";
@@ -65,7 +65,7 @@ touch3.addEventListener("click",function(){
   }
  sum++
 })
-touch4.addEventListener("click",function(){
+touch4.addEventListener("mouseover",function(){
   if(sum%2==0){
     drop.style.display="flex";
     none.style.display="none";
@@ -76,7 +76,7 @@ touch4.addEventListener("click",function(){
   }
  sum++
 })
-touch5.addEventListener("click",function(){
+touch5.addEventListener("mouseover",function(){
   if(sum%2==0){
     drop.style.display="flex";
     none.style.display="none";

@@ -2,9 +2,9 @@
     {
         "id": 1,
         "title": "Brick Making Machines ",
-        "price": 100000,
+        "price": 1000,
         "description": "Fly Ash Brick Making Machine Clay Brick Making Machine Cement Brick Making Machine",
-        "category": "electronics",
+        "category": "Construction Material & Equipment",
         "image": "https://3.imimg.com/data3/RS/UH/GLADMIN-5385/brick-making-machines-125x125.jpg",
         "rating": {
             "rate": 3.9,
@@ -13,11 +13,11 @@
     },
     {
         "id": 2,
-        "title": "Brick Making Machines ",
-        "price": 100000,
-        "description": "Fly Ash Brick Making Machine Clay Brick Making Machine Cement Brick Making Machine",
-        "category": "electronics",
-        "image": "https://3.imimg.com/data3/RS/UH/GLADMIN-5385/brick-making-machines-125x125.jpg",
+        "title": "Passenger Lifts",
+        "price": 1054,
+        "description": "Residential Elevator Kone Passenger lift Stair Lift",
+        "category": "Construction Material & Equipment",
+        "image": "https://3.imimg.com/data3/OI/XL/GLADMIN-34562/passenger-lifts-125x125.jpg",
         "rating": {
             "rate": 3.9,
             "count": 120
@@ -25,11 +25,11 @@
     },
     {
         "id": 3,
-        "title": "Brick Making Machines ",
-        "price": 100000,
-        "description": "Fly Ash Brick Making Machine Clay Brick Making Machine Cement Brick Making Machine",
-        "category": "electronics",
-        "image": "https://3.imimg.com/data3/RS/UH/GLADMIN-5385/brick-making-machines-125x125.jpg",
+        "title": "Plywoods",
+        "price": 3000,
+        "description": "Shuttering Plywood Laminated Plywood Waterproof Plywood",
+        "category": "Construction Material & Equipment",
+        "image": "https://5.imimg.com/data5/QO/YD/GLADMIN-2/plywoods-125x125.jpg",
         "rating": {
             "rate": 3.9,
             "count": 120
@@ -37,11 +37,11 @@
     },
     {
         "id": 4,
-        "title": "Brick Making Machines ",
-        "price": 100000,
-        "description": "Fly Ash Brick Making Machine Clay Brick Making Machine Cement Brick Making Machine",
-        "category": "electronics",
-        "image": "https://3.imimg.com/data3/RS/UH/GLADMIN-5385/brick-making-machines-125x125.jpg",
+        "title": "TMT Bars",
+        "price": 2000,
+        "description": "TMT Steel Bars TATA TMT Bars Kamdhenu TMT Bars",
+        "category": "Construction Material & Equipment",
+        "image": "https://3.imimg.com/data3/KS/JQ/GLADMIN-2475/tmt-bars-125x125.jpg",
         "rating": {
             "rate": 3.9,
             "count": 120
@@ -49,11 +49,11 @@
     },
     {
         "id": 5,
-        "title": "Brick Making Machines ",
-        "price": 100000,
-        "description": "Fly Ash Brick Making Machine Clay Brick Making Machine Cement Brick Making Machine",
-        "category": "electronics",
-        "image": "https://3.imimg.com/data3/RS/UH/GLADMIN-5385/brick-making-machines-125x125.jpg",
+        "title": "Excavator",
+        "price": 2500,
+        "description": "Hitachi Excavator Hyundai Excavator Komatsu Excavator",
+        "category": "Construction Material & Equipment",
+        "image": "https://3.imimg.com/data3/JE/DA/MY-2/hydraulic-excavator-500x500-125x125.jpg",
         "rating": {
             "rate": 3.9,
             "count": 120
@@ -61,11 +61,11 @@
     },
     {
         "id": 6,
-        "title": "Brick Making Machines ",
-        "price": 100000,
-        "description": "Fly Ash Brick Making Machine Clay Brick Making Machine Cement Brick Making Machine",
-        "category": "electronics",
-        "image": "https://3.imimg.com/data3/RS/UH/GLADMIN-5385/brick-making-machines-125x125.jpg",
+        "title": "Emulsion Paints",
+        "price": 5011,
+        "description": "Asian Emulsion Paints Berger Emulsion Paints Nerolac Emulsion Paints",
+        "category": "Construction Material & Equipment",
+        "image": "https://3.imimg.com/data3/VG/QG/GLADMIN-27799/emulsion-paints-125x125.jpg",
         "rating": {
             "rate": 3.9,
             "count": 120
@@ -73,11 +73,11 @@
     },
     {
         "id": 7,
-        "title": "Brick Making Machines ",
-        "price": 100000,
-        "description": "Fly Ash Brick Making Machine Clay Brick Making Machine Cement Brick Making Machine",
-        "category": "electronics",
-        "image": "https://3.imimg.com/data3/RS/UH/GLADMIN-5385/brick-making-machines-125x125.jpg",
+        "title": "Wooden Door",
+        "price": 6542,
+        "description": "Designer Wooden Door Plywood Door Wooden Flush Doors",
+        "category": "Construction Material & Equipment",
+        "image": "https://3.imimg.com/data3/UT/PB/GLADMIN-12558/wood-door-125x125.jpg",
         "rating": {
             "rate": 3.9,
             "count": 120
@@ -85,11 +85,11 @@
     },
     {
         "id": 8,
-        "title": "Brick Making Machines ",
-        "price": 100000,
-        "description": "Fly Ash Brick Making Machine Clay Brick Making Machine Cement Brick Making Machine",
-        "category": "electronics",
-        "image": "https://3.imimg.com/data3/RS/UH/GLADMIN-5385/brick-making-machines-125x125.jpg",
+        "title": "PVC Pipes",
+        "price": 4562,
+        "description": "Finolex Pipes Rigid PVC Pipes Flexible PVC Pipes",
+        "category": "Construction Material & Equipment",
+        "image": "https://3.imimg.com/data3/VN/LA/GLADMIN-2047/pvc-pipes-125x125.jpg",
         "rating": {
             "rate": 3.9,
             "count": 120
@@ -97,11 +97,11 @@
     },
     {
         "id": 9,
-        "title": "Brick Making Machines ",
-        "price": 100000,
-        "description": "Fly Ash Brick Making Machine Clay Brick Making Machine Cement Brick Making Machine",
-        "category": "electronics",
-        "image": "https://3.imimg.com/data3/RS/UH/GLADMIN-5385/brick-making-machines-125x125.jpg",
+        "title": "Building Brick",
+        "price": 1000,
+        "description": "Red Brick Fly Ash Bricks Cement Brick",
+        "category": "Construction Material & Equipment",
+        "image": "https://3.imimg.com/data3/YD/WE/GLADMIN-23639/building-brick-125x125.jpg",
         "rating": {
             "rate": 3.9,
             "count": 120
@@ -109,11 +109,11 @@
     },
     {
         "id": 10,
-        "title": "Brick Making Machines ",
-        "price": 100000,
-        "description": "Fly Ash Brick Making Machine Clay Brick Making Machine Cement Brick Making Machine",
+        "title": "Office Automation Products",
+        "price": 1000,
+        "description": "Multifunction Printer Xerox Machines Fingerprint Scanners",
         "category": "electronics",
-        "image": "https://3.imimg.com/data3/RS/UH/GLADMIN-5385/brick-making-machines-125x125.jpg",
+        "image": "https://4.imimg.com/data4/HI/RA/GLADMIN-181283/photocopier-machine-125x125.jpg",
         "rating": {
             "rate": 3.9,
             "count": 120
@@ -121,11 +121,11 @@
     },
     {
         "id": 11,
-        "title": "Brick Making Machines ",
-        "price": 100000,
-        "description": "Fly Ash Brick Making Machine Clay Brick Making Machine Cement Brick Making Machine",
+        "title": "Sensors & Transducers",
+        "price": 1500,
+        "description": "Level Sensors Proximity Sensor Sensor for Home & Office Load Cell",
         "category": "electronics",
-        "image": "https://3.imimg.com/data3/RS/UH/GLADMIN-5385/brick-making-machines-125x125.jpg",
+        "image": "https://5.imimg.com/data5/GLADMIN/Default/2022/3/MZ/VG/IH/87924/arduino-sensor-125x125.jpg",
         "rating": {
             "rate": 3.9,
             "count": 120
@@ -133,11 +133,11 @@
     },
     {
         "id": 12,
-        "title": "Brick Making Machines ",
-        "price": 100000,
-        "description": "Fly Ash Brick Making Machine Clay Brick Making Machine Cement Brick Making Machine",
+        "title": "Process Controllers",
+        "price": 1300,
+        "description": "Level Controllers Motor Controllers Temperature Controller",
         "category": "electronics",
-        "image": "https://3.imimg.com/data3/RS/UH/GLADMIN-5385/brick-making-machines-125x125.jpg",
+        "image": "https://5.imimg.com/data5/JW/EX/GLADMIN-2/digital-controller-125x125.jpg",
         "rating": {
             "rate": 3.9,
             "count": 120
@@ -145,11 +145,11 @@
     },
     {
         "id": 13,
-        "title": "Brick Making Machines ",
-        "price": 100000,
-        "description": "Fly Ash Brick Making Machine Clay Brick Making Machine Cement Brick Making Machine",
+        "title": "Control & Automation",
+        "price": 100,
+        "description": "VFD PLC HMI",
         "category": "electronics",
-        "image": "https://3.imimg.com/data3/RS/UH/GLADMIN-5385/brick-making-machines-125x125.jpg",
+        "image": "https://5.imimg.com/data5/RO/JS/GLADMIN-2/lighting-controllers1-125x125.jpg",
         "rating": {
             "rate": 3.9,
             "count": 120
@@ -157,11 +157,11 @@
     },
     {
         "id": 14,
-        "title": "Brick Making Machines ",
-        "price": 100000,
-        "description": "Fly Ash Brick Making Machine Clay Brick Making Machine Cement Brick Making Machine",
+        "title": "Diodes & Active Devices",
+        "price": 500,
+        "description": "Integrated Circuits Thyristors Light Emitting Diode",
         "category": "electronics",
-        "image": "https://3.imimg.com/data3/RS/UH/GLADMIN-5385/brick-making-machines-125x125.jpg",
+        "image": "https://3.imimg.com/data3/XB/KH/GLADMIN-105874/light-emitting-diode-125x125.jpg",
         "rating": {
             "rate": 3.9,
             "count": 120
@@ -169,11 +169,11 @@
     },
     {
         "id": 15,
-        "title": "Brick Making Machines ",
-        "price": 100000,
-        "description": "Fly Ash Brick Making Machine Clay Brick Making Machine Cement Brick Making Machine",
+        "title": "Battries",
+        "price": 5212,
+        "description": "Lithium Battery Inverter Batteries Electric Vehicle Battery",
         "category": "electronics",
-        "image": "https://3.imimg.com/data3/RS/UH/GLADMIN-5385/brick-making-machines-125x125.jpg",
+        "image": "https://5.imimg.com/data5/LX/YW/GLADMIN-2/inverter-batteries-125x125.png",
         "rating": {
             "rate": 3.9,
             "count": 120
@@ -181,11 +181,11 @@
     },
     {
         "id": 16,
-        "title": "Brick Making Machines ",
+        "title": "Wires & Cables",
         "price": 100000,
-        "description": "Fly Ash Brick Making Machine Clay Brick Making Machine Cement Brick Making Machine",
+        "description": "House Wire Armoured Cable Power Cable",
         "category": "electronics",
-        "image": "https://3.imimg.com/data3/RS/UH/GLADMIN-5385/brick-making-machines-125x125.jpg",
+        "image": "https://5.imimg.com/data5/GLADMIN/Default/2022/6/SI/KH/VT/87924/house-wire-125x125.jpg",
         "rating": {
             "rate": 3.9,
             "count": 120
@@ -193,11 +193,11 @@
     },
     {
         "id": 17,
-        "title": "Brick Making Machines ",
-        "price": 100000,
-        "description": "Fly Ash Brick Making Machine Clay Brick Making Machine Cement Brick Making Machine",
+        "title": "Commercial Lights",
+        "price": 100,
+        "description": "Flood Lights Street Lights Panel Light",
         "category": "electronics",
-        "image": "https://3.imimg.com/data3/RS/UH/GLADMIN-5385/brick-making-machines-125x125.jpg",
+        "image": "https://5.imimg.com/data5/VB/IL/GLADMIN-2/street-light-125x125.jpg",
         "rating": {
             "rate": 3.9,
             "count": 120
@@ -205,11 +205,11 @@
     },
     {
         "id": 18,
-        "title": "JCB Making Machines ",
-        "price": 100000,
-        "description": "Fly Ash Brick Making Machine Clay Brick Making Machine Cement Brick Making Machine",
+        "title": "Solar & Renewable Energy",
+        "price": 1005,
+        "description": "Solar Panels Solar Inverter Solar Pumps",
         "category": "electronics",
-        "image": "https://3.imimg.com/data3/RS/UH/GLADMIN-5385/brick-making-machines-125x125.jpg",
+        "image": "https://3.imimg.com/data3/EX/HO/GLADMIN-37340/solar-power-systems-125x125.jpg",
         "rating": {
             "rate": 3.9,
             "count": 120
@@ -217,11 +217,11 @@
     },
     {
         "id": 19,
-        "title": "Brick Making Machines ",
-        "price": 100000,
-        "description": "Fly Ash Brick Making Machine Clay Brick Making Machine Cement Brick Making Machine",
+        "title": "Pharmaceutical Drug",
+        "price": 1000,
+        "description": "Anticoagulant and Antiplatelet Drugs Antiparasitic Drug Antibiotic Tablets, Capsule & Syrup Antifungal Injection, Tablet & Syrup",
         "category": "electronics",
-        "image": "https://3.imimg.com/data3/RS/UH/GLADMIN-5385/brick-making-machines-125x125.jpg",
+        "image": "https://5.imimg.com/data5/KT/MJ/MY-16675294/pharmaceutical-drug-125x125.jpg",
         "rating": {
             "rate": 3.9,
             "count": 120
@@ -229,11 +229,11 @@
     },
     {
         "id": 20,
-        "title": "Brick Making Machines ",
-        "price": 100000,
-        "description": "Fly Ash Brick Making Machine Clay Brick Making Machine Cement Brick Making Machine",
+        "title": "Nutraceuticals",
+        "price": 100,
+        "description": "Vitamin Tablets & Capsules Weight Loss Supplement Dietary Supplements Mineral Supplement",
         "category": "electronics",
-        "image": "https://3.imimg.com/data3/RS/UH/GLADMIN-5385/brick-making-machines-125x125.jpg",
+        "image": "https://3.imimg.com/data3/JR/DH/GLADMIN-7427/nutritional-supplements-125x125.jpg",
         "rating": {
             "rate": 3.9,
             "count": 120

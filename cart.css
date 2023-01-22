@@ -20,10 +20,17 @@
     grid-template-columns: repeat(2,1fr);
     gap: 20px;
 }
+#container img{
+   display: flex;
+   align-items: center;
+   justify-items: center;
+   margin-right:100px;
+   margin-left: 100px;
+}
 #container>div{
     border-radius: 10px;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
-    background-color: rgb(185, 216, 164);
+    background-color: rgb(247, 248, 247);
     margin:auto;
     width:90%;
     gap:10px;
@@ -35,19 +42,18 @@
     margin-left: 5px;
     text-align: center;
     background-color: rgb(212, 211, 242);
-    border:2px solid black;
-width:90px;
+width:70px;
 height:35px;
-font-size: 20px;
+font-size: 15px;
 }
 
 .cart{
     border-radius: 10px;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
-    background-color: rgb(246, 235, 237);
+    background-color: rgb(162, 191, 169);
     padding: 10px 10px 10px 10px;
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
-    border: 1px solid black;
+    border: 4px dotted black;
     gap:20px;
     width:40%;
     height: 350px;
@@ -86,4 +92,28 @@ font-size: 20px;
    display: flex;
    justify-content: center;
    text-align: center;
+}
+.cart h2{
+    width:120px;
+    padding: 10px;
+    color: red;
+    text-decoration: underline;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    border:1px solid black;
+    background-color: yellow;
+    border-radius: 8px;
+}
+#or{
+    width: 130px;
+    height: 50px;
+    border-radius: 10px;
+    color: blue;
+    text-decoration: underline;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    border:1px solid black;
+    background-color: red;
+}
+#mar{
+    color:greenyellow;
+    font-size:30px;
 }

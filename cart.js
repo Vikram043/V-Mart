@@ -13,7 +13,7 @@ function DisplayProduct(data) {
     quantity.className="qty"
     let price = document.createElement("h4");
     let Remove = document.createElement("button");
-    Remove.style.backgroundColor="black"
+    Remove.style.backgroundColor="white"
     Remove.style.color="red"
     let Increment = document.createElement("button");
     let Decrement = document.createElement("button");
@@ -57,3 +57,9 @@ total.textContent=sum
 
 }
 DisplayProduct()
+
+let or=document.getElementById("or")
+let order=document.getElementById("order")
+or.addEventListener("click",function(){
+  order.style.display="flex"
+})
