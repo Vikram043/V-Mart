@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./order.css">
+</head>
+<body>
+    <section id="order">
+        <div class="modal">
+              <h2>Your payment details</h2>
+              <form>
+                <ul class="form-list">
+                  <li>
+                    <label>Name</label>
+                    <input type="text"/>
+                  </li>
+                  <li class="form-list__row">
+                    <label>Card Number</label>
+                    <div id="input--cc" class="creditcard-icon">
+                      <input type="text" />
+                    </div>
+                  </li>
+                  <li class="form-list__row form-list__row--inline">
+                    <div>
+                      <label>Expiration Date</label>
+                      <div class="form-list__input-inline">
+                        <input type="text" name="cc_month" placeholder="MM" />
+                        <input type="text" name="cc_year" placeholder="YY"/>
+                      </div>
+                    </div>
+                    <div>
+                      <label>
+                        CVC
+                      </label>
+                      <input type="text" placeholder="123"/>
+                    </div>
+                  </li>
+                  <li class="form-list__row form-list__row--agree">
+                    <label>
+                      <input type="checkbox" checked="checked">
+                      Save my card for future purchases
+                    </label>
+                  </li>
+                  <li>
+                    <button type="submit" id="button">Pay Now</button>
+                  </li>
+                </ul>
+              </form>
+        </div> 
+       </section>
+</body>
+<script type="text/javascript" src="./order.js"></script>
+</html>
