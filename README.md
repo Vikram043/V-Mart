@@ -1,7 +1,5 @@
 V MART - India's Largest Online B2B Marketplace
 
-V MART Logo
-
 Welcome to the V MART repository! V MART is India's leading online B2B marketplace, facilitating seamless connections between buyers and suppliers. As a pioneer in the online B2B Classified space, V MART proudly holds a staggering 60% market share in India.
 Table of Contents
 
